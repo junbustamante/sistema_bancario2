@@ -9,4 +9,4 @@ envia a ajarmill un valor de 15000
 
 # Mas transacciones
 djbustam
-recibe de walopera un valor de50000
+recibe de walopera un valorde 800000
