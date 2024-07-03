@@ -2,4 +2,4 @@
 sistema bancario prueba
 
 # Grafico Log
-![Logs](log.PNG)
+![Logs](log.png)
